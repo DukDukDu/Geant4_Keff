@@ -1,0 +1,20 @@
+#/run/initialize
+#/tracking/verbose 1
+
+/vis/viewer/set/style wireframe
+/vis/viewer/set/auxiliaryEdge true
+/vis/viewer/set/lineSegmentsPerCircle 100
+
+/process/had/particle_hp/use_Wendt_fission_model true
+
+/analysis/setDefaultFileType root
+
+/analysis/openFile neutron
+
+/gun/particle neutron
+/gun/energy 0.025 eV
+/run/beamOn 3
+
+/analysis/write
+/analysis/closeFile
+#/analysis/reset

@@ -1,0 +1,8 @@
+/Users/mingxuanzhang/geant4-11.2.1/work/B3/Sphere/B3a/bin/CMakeFiles/exampleB3a.dir
+/Users/mingxuanzhang/geant4-11.2.1/work/B3/Sphere/B3a/bin/CMakeFiles/B3a.dir
+/Users/mingxuanzhang/geant4-11.2.1/work/B3/Sphere/B3a/bin/CMakeFiles/edit_cache.dir
+/Users/mingxuanzhang/geant4-11.2.1/work/B3/Sphere/B3a/bin/CMakeFiles/rebuild_cache.dir
+/Users/mingxuanzhang/geant4-11.2.1/work/B3/Sphere/B3a/bin/CMakeFiles/list_install_components.dir
+/Users/mingxuanzhang/geant4-11.2.1/work/B3/Sphere/B3a/bin/CMakeFiles/install.dir
+/Users/mingxuanzhang/geant4-11.2.1/work/B3/Sphere/B3a/bin/CMakeFiles/install/local.dir
+/Users/mingxuanzhang/geant4-11.2.1/work/B3/Sphere/B3a/bin/CMakeFiles/install/strip.dir

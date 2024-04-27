@@ -1,0 +1,18 @@
+/vis/scene/add/trajectories rich
+/vis/modeling/trajectories/drawByCharge-0/default/setTimeSliceInterval 0.001 ns
+
+/vis/viewer/set/timeWindow/displayHeadTime true
+/vis/viewer/set/timeWindow/fadeFactor 1
+
+/control/execute run.mac
+
+/vis/viewer/set/timeWindow/startTime 0 ns .01 ns
+/vis/viewer/save
+
+/vis/viewer/set/timeWindow/startTime .05 ns .05 ns
+/vis/viewer/save
+
+/vis/viewer/set/timeWindow/startTime .1 ns .1 ns
+/vis/viewer/save
+
+/vis/viewer/interpolate
